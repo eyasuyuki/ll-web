@@ -75,24 +75,36 @@ const content = `<!DOCTYPE html>
 
   <!--  Scripts-->
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-  <script src="js/materialize.js"></script>
-  <script src="js/init.js"></script>
+  <script src="./js/materialize.js"></script>
+  <script src="./js/init.js"></script>
 
   </body>
 </html>`
 
 const parent = path.dirname(outFile)
 fs.mkdir(parent, (err) => {
-    //console.log(err)
+    //if (err != null) console.log(err)
 })
 const css_path = parent+'/css'
 fs.mkdir(css_path, (err) => {
-    //console.log(err)
+    //if (err != null) console.log(err)
 })
 fs.copyFile('./css/materialize.css', css_path+'/materialize.css', (err) => {
-    //console.log(err)
+    if (err != null) console.log(err)
 })
 fs.copyFile('./css/style.css', css_path+'/style.css', (err) => {
-    //console.log(err)
+    if (err != null) console.log(err)
 })
+
+const js_path = parent+'/js'
+fs.mkdir(js_path, (err) => {
+    //if (err != null) console.log(err)
+})
+fs.copyFile('./js/init.js', js_path+'/init.js', (err) => {
+    if (err != null) console.log(err)
+})
+fs.copyFile('./js/materialize.js', js_path+"/materialize.js", (err) => {
+    if (err != null) console.log(err)
+})
+
 fs.writeFileSync(outFile, content)
