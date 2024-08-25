@@ -27,7 +27,7 @@ Learn Languagesは様々なプログラミング言語について学びたい�
 | 日付 | 2024年9月7日(土)                                                             |
 | 時間 | 13:00 - 16:00 (予定)                                                       |
 | 形態 | 会場参加およびライブストリーミング ([YouTube Live](https://www.youtube.com/c/OSPNjp))     |
-| 会場 | [docomo R&D OPEN LAB ODAIBA](https://docomo-openlab.jp) （台場フロンティアビル 12F） [要入館予約](https://docomo-openlab.jp/about/) |
+| 会場 | [docomo R&D OPEN LAB ODAIBA](https://docomo-openlab.jp) （台場フロンティアビル 12F） [要来館予約](https://app.docomo-openlab.jp/) |
 | 参加登録 | [Connpass](https://ospn.connpass.com/event/325442/)                      |
 | 参加費 | 無料                                                                       |
 
