@@ -21,7 +21,6 @@ Lenrn Languages 公式サイト
 # ディレクトリ構成
 
 ```
-staff
 ├── README.md             //     このファイル
 ├── event
 │   └── README.md        // (1) Markdownソース
