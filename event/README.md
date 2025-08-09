@@ -43,10 +43,12 @@ https://ospn.connpass.com/event/359709/
 ## event
 
 ##### タイムテーブル
-- 13:00-13:45 Language Update: Java, PHP
-- 14:00-14:45 Language Update: Rust, Swift
-- 15:00-15:45 Pythonパッケージマネージャの過去と現在と未来(仮題)
-- 16:00-16:45 キミならどう書く? ～AI編～
+| | |
+|--|--|
+| 13:00-13:45 | Language Update: Java, PHP |
+| 14:00-14:45 | Language Update: Rust, Swift |
+| 15:00-15:45 | Pythonパッケージマネージャの過去と現在と未来(仮題) |
+| 16:00-16:45 | キミならどう書く? ～AI編～ |
 
 ##### Session
 
