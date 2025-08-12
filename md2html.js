@@ -67,7 +67,7 @@ const content = `<!DOCTYPE html>
   <footer class="page-footer white">
     <div class="footer-copyright black lighten-1">
       <div class="container">
-        Copyright © 2023-2025 LLイベント実行委員会
+        Copyright © 2003-2025 LLイベント実行委員会
       </div>
     </div>
   </footer>
