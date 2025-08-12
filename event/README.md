@@ -22,8 +22,8 @@ Learn Languagesは様々なプログラミング言語について学びたい�
 
 | |                                                                                                                  |
 | ---:         |------------------------------------------------------------------------------------------------------------------|
-| URL | [https://ll.jus.or.jp/2025/](https://ll.jus.or.jp/2024/)                                                         |
-| ハッシュタグ | [#ll2025jp](https://twitter.com/search?q=ll2024jp)                                                               |
+| URL | [https://ll.jus.or.jp/2025/](https://ll.jus.or.jp/2025/)                                                         |
+| ハッシュタグ | [#ll2025jp](https://twitter.com/search?q=ll2025jp)                                                               |
 | 日付 | 2025年9月6日(土)                                                                                                     |
 | 時間 | 13:00 - 17:00 (予定)                                                                                               |
 | 形態 | 会場参加およびライブストリーミング ([YouTube Live](https://www.youtube.com/c/OSPNjp))                                             |
@@ -68,7 +68,7 @@ https://ospn.connpass.com/event/359709/
 
 ###### Pythonパッケージマネージャの過去と現在と未来(仮題)
 
-Pythonパッケージマネージャの歴史、他の言語との比較、最新情報などを お伝えします。
+プログラム開発になくてはならないパッケージマネージャですが、どのパッケージマネージャを選べばよいのか悩んだことのある人も多いのではないでしょうか。このセッションでは、Pythonパッケージマネージャの変遷、他の言語のパッケージマネージャとの違い、さらに最新のパッケージマネージャの特徴について解説します。
 
 |  **講師** |                                        |
 |--------:|----------------------------------------|
@@ -101,7 +101,7 @@ Vibe Codingに関しては、初心者、これから使ってみたい人など
 
 今までのアーカイブは以下を参照してください。
 
-- [Learn Languages 2024](https://ll.jus.or.jp/2024/)
+- [Learn Languages 2025](https://ll.jus.or.jp/2025/)
 - [Learn Languages 2023](https://ll.jus.or.jp/2023/)
 - [Learn Languages 2022](https://ll.jus.or.jp/2022/)
 - [Learn Languages 2021](https://ll.jus.or.jp/2021/)
