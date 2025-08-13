@@ -67,7 +67,7 @@ const content = `<!DOCTYPE html>
   <footer class="page-footer white">
     <div class="footer-copyright black lighten-1">
       <div class="container">
-        Copyright © 2022 LLイベント実行委員会
+        Copyright © 2003-2025 LLイベント実行委員会
       </div>
     </div>
   </footer>
@@ -83,11 +83,11 @@ const content = `<!DOCTYPE html>
 
 const parent = path.dirname(outFile)
 fs.mkdir(parent, (err) => {
-    //if (err != null) console.log(err)
+    if (err != null) console.log(err)
 })
 const css_path = parent+'/css'
 fs.mkdir(css_path, (err) => {
-    //if (err != null) console.log(err)
+    if (err != null) console.log(err)
 })
 fs.copyFile('./css/materialize.css', css_path+'/materialize.css', (err) => {
     if (err != null) console.log(err)
@@ -107,4 +107,4 @@ fs.copyFile('./js/materialize.js', js_path+"/materialize.js", (err) => {
     if (err != null) console.log(err)
 })
 
-fs.writeFileSync(outFile, content)
+fs.writeFileSync(outFile,                      content)
