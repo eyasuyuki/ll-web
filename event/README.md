@@ -101,7 +101,7 @@ Vibe Codingに関しては、初心者、これから使ってみたい人など
 
 今までのアーカイブは以下を参照してください。
 
-- [Learn Languages 2025](https://ll.jus.or.jp/2025/)
+- [Learn Languages 2024](https://ll.jus.or.jp/2024/)
 - [Learn Languages 2023](https://ll.jus.or.jp/2023/)
 - [Learn Languages 2022](https://ll.jus.or.jp/2022/)
 - [Learn Languages 2021](https://ll.jus.or.jp/2021/)
